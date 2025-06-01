@@ -9,7 +9,7 @@ import logging
 
 # --- CONFIG ---
 POLYGON_API_KEY = 'ZTppfs8VAEPg6EPEhB0_8xtbzC0mjT0m'
-TELEGRAM_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE'  # Replace with your Telegram Bot Token
+TELEGRAM_TOKEN = '8030718150:AAFp5QuwaC-103ruvB5TsBMGY5MwMvkq-5g'  # Replace with your Telegram Bot Token
 SYMBOL_1M = 'O:FOREX:AUDCAD'
 SYMBOL_5M = 'O:FOREX:AUDCAD'
 
